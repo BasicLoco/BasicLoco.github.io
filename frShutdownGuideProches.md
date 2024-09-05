@@ -172,7 +172,7 @@ Certaines personnes autistes n’ont jamais connu de crise mais ont connu un « 
 Comme pour tous les individus, la façon dont une personne autiste réagit au dépassement dépend d'une grande variété de facteurs, y compris, mais sans s'y limiter, sa santé mentale globale, ses traits de personnalité, son éducation, son style d'attachement et tout traumatisme préexistant qu'elle a pu subir.
 .
 
-## Les impacts des « shutdowns » autistes
+## Les impacts des « shutdowns » autistiques
 
 Les « shutdowns » autistiques peuvent influencer considérablement différents aspects de la vie quotidienne de la personne qui les vit et constituent généralement une expérience épuisante.
 Un stress continu peut conduire non seulement à des « shutdowns », mais aussi à un épuisement professionnel et éventuellement à une dépression.
