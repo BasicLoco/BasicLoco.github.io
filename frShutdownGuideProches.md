@@ -259,7 +259,7 @@ Ce faisant, vous pouvez les aider de manière proactive à utiliser des stratég
 Il est conseillé de pratiquer ces techniques dans des environnements sécurisés, leur permettant de devenir des habitudes enracinées qui peuvent être facilement utilisées en période de stress.
 Essayer de respirer profondément pour la première fois au milieu d'un « shutdown » peut ne pas être efficace ou utile… mais si la personne autiste a eu la possibilité de pratiquer la respiration profonde au préalable dans un environnement sûr, tout en étant entièrement régulé – et qu'elle est sûre de savoir comment le faire – elle sera alors beaucoup plus susceptible de pouvoir s'apaiser en respirant profondément pendant un « shutdown ».
 
-### Création d'un plan d'« shutdown »
+### Création d'un plan de « shutdown »
 
 Vous aimerez peut-être également créer un plan de « shutdown » avec et pour la personne autiste.
 Avoir un plan de « shutdown » bien pensé peut être extrêmement bénéfique pour gérer les situations inévitables qui conduisent souvent à des « shutdowns ».
