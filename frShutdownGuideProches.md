@@ -276,7 +276,7 @@ Il est essentiel de toujours avoir un plan d’urgence en place pour faire face 
 Ce faisant, non seulement ils seront au courant de l’exécution du plan, mais ils pourront également apporter leur aide si nécessaire.
 
 > **Lectures complémentaires :**
-> Comment soutenir une personne autiste en tant que professionnel – [**Guide du professionnel pour soutenir les clients et patients autistes**](https://reframingautism.org.au/a-professionals-guide-to-supporting-autistic-clients- et-patients/)
+> Comment soutenir une personne autiste en tant que professionnel – [**Guide du professionnel pour soutenir les clients et patients autistes**](https://reframingautism.org.au/a-professionals-guide-to-supporting-autistic-clients-and-patients/)
 
 ### Temps de récupération
 
