@@ -1,4 +1,4 @@
-# Tout sur les « shutdowns » autistiques : un guide pour les alliés
+# Tout sur les « shutdowns » autistiques : un guide pour les proches
 [Reframing autism --- Shutdown guide for allies](https://reframingautism.org.au/all-about-autistic-shutdown-guide-for-allies/)
 
 ## Les personnes autistes sont souvent stressées et dépassées dans leur vie quotidienne.
