@@ -7,14 +7,17 @@ title: Comment j'ai changé totalement mon utilisation du clavier (et de la sour
 
 
 Tout est parti d'une, encore une, névralgie-cervico-brachiale.
+
 Droite.
-La souris !
-La souris est trop loin !
+
+La souris ! Trop loin !
+
 Et pas que la souris d'ailleurs, les chiffres aussi.
+
 
 # Objectif n°1 : avoir les deux mains le plus souvent dans une position symétrique
 ## Constat n°1 : il faut moins se servir de la souris
-Actions :
+
 ### Apprendre/réviser les raccourcis clavier :
 
 - Firefox : « ah mais il existe des plugins Vim »
