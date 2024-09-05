@@ -26,4 +26,4 @@ Et pas que la souris d'ailleurs, les chiffres aussi.
 - LibreOffice : « j'ai décidément du mal à pondre un truc rigoureux avec ces logiciels dits WYSIWYG »
     - qu'est ce que je fais avec LibreOffice ? Pondre du texte, idéalement structuré, avec le moins de manipulations possibles, et l'exporter bien souvent en pdf
     - ai-je besoin de ce type d'outil ? Pratiquement pas.
-    - apprentissage de Vim, balisage Markdown et $\LaTeX$
+    - apprentissage de Vim, balisage Markdown et ![LaTeX.png].
