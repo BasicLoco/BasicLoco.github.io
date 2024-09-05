@@ -228,7 +228,7 @@ Comme on peut l’imaginer, cet effort mental constant peut être incroyablement
 Essentiellement, les fermetures agissent comme un mécanisme d'adaptation précieux expérimenté par de nombreuses personnes autistes pour éviter des crises accablantes et préserver leur santé mentale.
 
 > **Lectures complémentaires :**
-> Trouver le bon soutien en santé mentale est crucial – [**Lignes directrices pour la sélection d'un prestataire de soins de santé mentale affirmant la neurodiversité**](https://reframingautism.org.au/guidelines-for-selecting-a-neurodiversity-affirming-mental -prestataire de santé/)
+> Trouver le bon soutien en santé mentale est crucial – [**Lignes directrices pour la sélection d'un prestataire de soins de santé mentale affirmant la neurodiversité**](https://reframingautism.org.au/guidelines-for-selecting-a-neurodiversity-affirming-mental-healthcare-provider/)
 
 ### Comment soutenir quelqu'un lors d'un « shutdown » autiste
 
