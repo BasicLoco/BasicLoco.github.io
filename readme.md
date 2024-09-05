@@ -6,5 +6,7 @@
 
 
 ## Comment qu'on fait ?
+### Mon clavier est heureux
+- [HHKB, layout et ncb](hhkbLayout.md)
 ## Jcomprendspas
 ## Simple et funky
