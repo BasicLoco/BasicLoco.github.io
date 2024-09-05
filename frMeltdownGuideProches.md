@@ -4,7 +4,7 @@ Tout sur les crises (« meltdown ») autistiques : un guide pour les alliés
 # Tout sur les crises autistiques : un guide pour les alliés
 
 - [Informations](https://reframingautism.org.au/category/information/)
-- [corégulation](https://reframingautism.org.au/tag/co-regulation/), [meltdown](https://reframingautism.org.au/tag/meltdown/), [shutdown](https: //reframingautism.org.au/tag/shutdown/)
+- [corégulation](https://reframingautism.org.au/tag/co-regulation/), [meltdown](https://reframingautism.org.au/tag/meltdown/), [shutdown](https://reframingautism.org.au/tag/shutdown/)
 
 ### Tout sur les crises --- Un guide pour les alliés
 
