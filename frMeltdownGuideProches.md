@@ -70,7 +70,7 @@ Après une crise, une personne autiste peut mettre un certain temps à se rétab
 
 Les stimuli cognitifs sont un autre contributeur courant à la crise autistique. Lorsque le cerveau est submergé par trop d'informations à traiter à la fois, l'anxiété pendant une activité (ou en prévision d'une activité), ou le fait d'être soumis à trop de formes d'informations à la fois (par exemple, plusieurs personnes parlant, ou parlant tout en montrant des diagrammes et des images), la détresse sensorielle conduit à une dérégulation, qui donne ensuite lieu à un effondrement.
 
-[Research](https://pubmed.ncbi.nlm.nih.gov/31230465/) suggère que cela pourrait être dû au fait que les cerveaux autistes, contrairement aux cerveaux neurotypiques, ne s'acclimatent pas ou ne « s'habituent » pas à certains stimuli, donc la sensation de la menace/l’anxiété/la détresse restent à un niveau élevé, plutôt qu’à un gradient descendant comme nous pourrions le voir dans un cerveau neurotypique.
+La [recherche](https://pubmed.ncbi.nlm.nih.gov/31230465/) suggère que cela pourrait être dû au fait que les cerveaux autistes, contrairement aux cerveaux neurotypiques, ne s'acclimatent pas ou ne « s'habituent » pas à certains stimuli, donc la sensation de la menace/l’anxiété/la détresse restent à un niveau élevé, plutôt qu’à un gradient descendant comme nous pourrions le voir dans un cerveau neurotypique.
 
 ### Les signes avant-coureurs d'une crise autistique
 
