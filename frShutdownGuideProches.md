@@ -75,7 +75,7 @@ Cependant, l’épuisement professionnel persiste pendant des durées beaucoup p
 De plus, les « shutdowns » et les crises sont plus susceptibles de se produire pendant l’épuisement professionnel en raison de la capacité réduite de l’individu à gérer son anxiété.
 
 > **Lectures complémentaires :**
-> En savoir plus sur l'épuisement professionnel – [**Naviguer dans l'épuisement professionnel autistique : stratégies d'auto-soins pour récupérer et recalibrer**](https://reframingautism.org.au/navigating-autistic-burnout-self-care-strategies-to-recover -et-recalibrer/)
+> En savoir plus sur l'épuisement professionnel – [**Naviguer dans l'épuisement professionnel autistique : stratégies d'auto-soins pour récupérer et recalibrer**](https://reframingautism.org.au/navigating-autistic-burnout-self-care-strategies-to-recover-and-recalibrate/)
 
 ### À quoi ressemble un « shutdown » autistique ?
 
