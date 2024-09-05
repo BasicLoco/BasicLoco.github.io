@@ -1,12 +1,10 @@
-Tout sur les crises (« meltdown ») autistiques : un guide pour les alliés
-[Reframing Autism --- All About Autistic Meldowns: A Guide For Allies](https://reframingautism.org.au/all-about-autistic-meltdowns-a-guide-for-allies/)
+# Tout sur les crises autistiques : un guide pour les proches
 
-# Tout sur les crises autistiques : un guide pour les alliés
+*source* : [Reframing Autism --- All About Autistic Meldowns: A Guide For Allies](https://reframingautism.org.au/all-about-autistic-meltdowns-a-guide-for-allies/)
+
 
 - [Informations](https://reframingautism.org.au/category/information/)
 - [corégulation](https://reframingautism.org.au/tag/co-regulation/), [meltdown](https://reframingautism.org.au/tag/meltdown/), [shutdown](https://reframingautism.org.au/tag/shutdown/)
-
-### Tout sur les crises --- Un guide pour les alliés
 
 ## Une crise autistique ou « meltdown », également parfois appelée tempête autonome, est une réaction à des sentiments intenses d'accablement, de détresse ou de dérégulation.
 
