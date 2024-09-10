@@ -113,7 +113,7 @@ De plus, ils ont mentionné des difficultés avec les processus cognitifs, notam
 La même étude aborde également une phase connue sous le nom d’épuisement professionnel, qui survient avant un effondrement chez les personnes autistes. Au cours de cette étape, l’individu autiste éprouve de la fatigue, un sentiment de dépassement, un ralentissement du processus cognitif et des difficultés cognitives. C’est durant cette période que la pression constante et le stress sensoriel et émotionnel intense commencent à détériorer la capacité de la personne autiste à accomplir les tâches quotidiennes. Il est crucial de soutenir et d’encourager les personnes autistes à réduire les pressions émotionnelles et sensorielles pendant cette phase afin d’éviter les crises.
 
 > **Lectures complémentaires :**
-> Un adulte autiste raconte son expérience vécue des crises – [**Ménopause et meltdown : une histoire autistique de survie sensorielle**](https://reframingautism.org.au/menopausal-and-melting-down-an-autistic -conte-de-survie-sensorielle/)
+> Un adulte autiste raconte son expérience vécue des crises – [**Ménopause et meltdown : une histoire autistique de survie sensorielle**](https://reframingautism.org.au/menopausal-and-melting-down-an-autistic-tale-of-sensory-survival/).
 
 ### Aider une personne autiste lors d'une crise
 
