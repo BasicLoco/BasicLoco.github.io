@@ -100,7 +100,7 @@ Les crises de colère sont utilisées pour contrôler ou manipuler un résultat 
 Les effondrements n’ont pas d’objectif final. Il n’y a pas de stratégie ni d’objectif supérieur, et encore moins de tentative de manipulation – ils sont purement réactifs et signent une grande détresse.
 
 > **Lectures complémentaires :**
-> Apprenez à gérer les crises en tant que parent d'un enfant autiste – **[Parenting an Autistic Child: A Practical Guide](https://reframingautism.org.au/parenting-an-autistic-child-a-practical-guide /)**
+> Apprenez à gérer les crises en tant que parent d'un enfant autiste – **[Parenting an Autistic Child: A Practical Guide](https://reframingautism.org.au/parenting-an-autistic-child-a-practical-guide/)**
 
 ### Les crises autistiques chez les adultes
 
