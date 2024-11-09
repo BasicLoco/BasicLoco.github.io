@@ -1,7 +1,7 @@
 ---
 layout: page
 title: À propos
-permalink: /about/
+permalink: /a-propos/
 ---
 
-Ceci n'est pas vraiment le à propos de ce blog.
+Ceci n'est pas vraiment un à-propos.
