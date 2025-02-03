@@ -5,9 +5,9 @@ date: 2025-02-03 10:09
 categories: blog
 ---
 
-Tout sur les crises autistiques (meltdown) : un guide pour les alliés
+> Ce qui suit est une traduction libre de l'article [Reframing Autism --- All About Autistic Meldowns: A Guide For Allies](https://reframingautism.org.au/all-about-autistic-meltdowns-a-guide-for-allies/)
 
-[Reframing Autism --- All About Autistic Meldowns: A Guide For Allies](https://reframingautism.org.au/all-about-autistic-meltdowns-a-guide-for-allies/)
+# Tout sur les crises autistiques (_meltdown_) : un guide pour les alliés
 
 - [Informations](https://reframingautism.org.au/category/information/)
 - [corégulation](https://reframingautism.org.au/tag/co-regulation/), [meltdown](https://reframingautism.org.au/tag/meltdown/), [shutdown](https: //reframingautism.org.au/tag/shutdown/)
