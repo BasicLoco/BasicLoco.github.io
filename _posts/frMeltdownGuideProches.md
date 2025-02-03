@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Tout sur les meltdown autistiques : un guide pour les proches"
+date: 2025-02-03 10:09
+categories: blog
+---
+
 # Tout sur les crises autistiques (meltdown) : un guide pour les alliés
 
 [Reframing Autism --- All About Autistic Meldowns: A Guide For Allies](https://reframingautism.org.au/all-about-autistic-meltdowns-a-guide-for-allies/)

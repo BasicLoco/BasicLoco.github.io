@@ -1,4 +1,12 @@
+---
+layout: post
+title: "Tout sur les shutdowns autistiques : un guide pour les proches"
+date: 2025-02-03 10:10
+categories: blog
+---
+
 # Tout sur les « shutdowns » autistiques : un guide pour les alliés
+
 [Reframing autism --- Shutdown guide for allies](https://reframingautism.org.au/all-about-autistic-shutdown-guide-for-allies/)
 
 ## Les personnes autistes sont souvent stressées et dépassées dans leur vie quotidienne.
@@ -130,6 +138,7 @@ Il est important de se rappeler que se fermer n’est pas un choix conscient de 
 ### Déclencheurs du « shutdown » autistique
 
 **Certains déclencheurs spécifiques d'une crise chez une personne autiste – enfant ou adulte – peuvent être :**
+
 - Déclencheurs sensoriels
 - Stress
 - Besoins non satisfaits que la personne est incapable de communiquer
@@ -251,7 +260,7 @@ Ces outils peuvent aider à réduire l’intensité des stimuli sensoriels et à
 Si des « shutdowns » fréquents se produisent dans un paramètre particulier, cela peut indiquer que le paramètre ne convient pas à l'individu et qu'une modification peut être nécessaire.
 
 > Tout comme on ne peut pas s'attendre à ce qu'un poisson d'eau salée s'épanouisse dans un aquarium d'eau douce, les besoins d'un poisson d'eau salée diffèrent de ceux d'un poisson d'eau douce.
-Cela n’implique aucun défaut du poisson d’eau salée ; cela nécessite simplement un environnement légèrement différent pour prospérer.
+> Cela n’implique aucun défaut du poisson d’eau salée ; cela nécessite simplement un environnement légèrement différent pour prospérer.
 
 De plus, aider la personne autiste à pratiquer des techniques de gestion du stress peut réduire efficacement la fréquence et l'intensité des « shutdowns ».
 Ce faisant, vous pouvez les aider de manière proactive à utiliser des stratégies telles que la respiration profonde pour atténuer le stress avant qu’il n’atteigne un niveau critique.
