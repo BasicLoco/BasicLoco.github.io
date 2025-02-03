@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meltdowns, alliés, actions"
+title: "Meltdowns"
 date: 2025-02-03 10:47
 categories: blog
 ---
