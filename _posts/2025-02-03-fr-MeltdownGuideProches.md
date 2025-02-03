@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tout sur les meltdown autistiques : un guide pour les proches"
+title: "Tout sur les meltdowns autistiques"
 date: 2025-02-03 10:09
 categories: blog
 ---
