@@ -28,10 +28,13 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 # twitter_username: jekyllrb
 # github_username: jekyll
 
+permalink: /:year/:month/:day/:title/
+timezone: Europe/Paris
 lang: fr
+
 # Build settings
 # markdown: kramdown
-# theme: minima
+theme: minima
 # theme: jekyll-theme-midnight
 # remote_theme: jekyll/minima
 # remote_theme: pages-themes/hacker@v0.2.0
