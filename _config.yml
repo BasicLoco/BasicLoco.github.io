@@ -20,8 +20,10 @@
 
 title: Ceci n'est pas un site
 email: vim4ant@proton.me
-description: >- # this means to ignore newlines until "baseurl:"
-  Ceci n'est pas une awesome description de ce site
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Ceci n'est pas une awesome description de ce site
+# description: "Ceci n'est pas une awesome description de ce site"
+
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://BasicLoco.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
