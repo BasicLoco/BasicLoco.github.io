@@ -44,9 +44,9 @@ plugins:
   - jekyll-sitemap
 # - jekyll-remote-theme
 #
-# minima:
-# skin: dark
-# date_format: "%A %e %B %Y"
+minima:
+  skin: dark
+  date_format: "%A %e %B %Y"
 #
 # markdown:
 markdown: kramdown
