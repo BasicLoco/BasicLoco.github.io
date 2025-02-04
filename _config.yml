@@ -21,7 +21,7 @@
 title: Ceci n'est pas un site
 email: vim4ant@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Ceci n'est pas une awesome description de ce site
+  Ceci n'est toujours pas une awesome description de ce site
 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://BasicLoco.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -31,9 +31,9 @@ url: "https://BasicLoco.github.io" # the base hostname & protocol for your site,
 lang: fr
 # Build settings
 # markdown: kramdown
-theme: minima
+# theme: minima
 # theme: jekyll-theme-midnight
-# remote_theme: jekyll/minima
+remote_theme: jekyll/minima
 # remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-feed
