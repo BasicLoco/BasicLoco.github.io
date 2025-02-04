@@ -27,15 +27,16 @@ url: "https://BasicLoco.github.io" # the base hostname & protocol for your site,
 # twitter_username: jekyllrb
 # github_username: jekyll
 
+lang: fr
 # Build settings
 # markdown: kramdown
-# theme: minima
-theme: jekyll-theme-midnight
+theme: minima
+# theme: jekyll-theme-midnight
 # remote_theme: jekyll/minima
 # remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
+  # - jekyll-seo-tag
 # - jekyll-remote-theme
 #
 # minima:
