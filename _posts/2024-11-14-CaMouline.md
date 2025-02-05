@@ -66,3 +66,9 @@ date: 2024-11-14 11:56
 - eugénisme (sélection via absence de soins efficaces ?)
 - culture de la nature au sens religieux du terme
 - homo / transphobie / natalisme
+
+### Ajout du 20250205
+
+- Responsable des soins palliatifs en France : pro-« vie », glorification de la douleur, voir [Claire Fourcade](https://fr.wikipedia.org/wiki/Claire_Fourcade) (catho ++, anti euthanasie).
+- Voir Alliance Vita, Fondation Jérôme Lejeune,…
+- soutien de Bayrou : (https://www-mediapart-fr.bnf.idm.oclc.org/journal/france/220125/francois-bayrou-donne-des-gages-aux-opposants-l-aide-mourir)
