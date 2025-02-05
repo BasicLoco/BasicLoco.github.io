@@ -4,15 +4,17 @@ title: "Ruminations"
 date: 2024-11-14 11:56
 ---
 
-# Des situations sociales compliquées
+# Ruminations
 
-## Argument d'autorité
+## Des situations sociales compliquées
+
+### Argument d'autorité
 
 > Prévalence de la figure d'autorité attribuée sur la véracité d'un fait
 
-## Sophismes
+### Sophismes
 
-### Exemples
+#### Exemples
 
 > Impossible de comprendre sans avoir essayé
 
@@ -22,7 +24,7 @@ date: 2024-11-14 11:56
 
 > Appel à l'exotisme « la sagesse des indiens/chinois/mayas/… »
 
-### Problèmes
+#### Problèmes
 
 - difficultés à faire appel à ses connaissances pour réagir au mieux sur le moment
 - survenue de l'émotion qui brouille la réflexion
@@ -47,21 +49,21 @@ date: 2024-11-14 11:56
 - sentiment de faible considération de mon ressenti puisque « laisser couler » est le moteur principal, réduction/annulation de la teneur de mes propos
 - importance de la forme sur le fond…
 
-# Des craintes plus ou moins légitimes
+## Des craintes plus ou moins légitimes
 
-## Une expérience pas glop
+### Une expérience pas glop
 
 - Chatou / arrivée / autocollants / affichages / réaction des gens / Steiner / insultes / moqueries / racisme visible
 - pont tags croix gammées
 
-## Une recherche d'info un peu flippante
+### Une recherche d'info un peu flippante
 
 - info / artistes / pas de lecture avant 7 ans / cosmogonie / racisme intolérance
 - antivax / comportement Covid
 - découverte que gentils écolos farfelus = méchants fachos aux idées dangereuses
 - voir cette histoire d'impression du livre de Thierry Meyssan…
 
-## À quel point l'extrême-droite et les nouveaux marchés du « bien-être » sont-ils liés ?
+### À quel point l'extrême-droite et les nouveaux marchés du « bien-être » sont-ils liés ?
 
 - eugénisme (sélection via absence de soins efficaces ?)
 - culture de la nature au sens religieux du terme
@@ -71,4 +73,4 @@ date: 2024-11-14 11:56
 
 - Responsable des soins palliatifs en France : pro-« vie », glorification de la douleur, voir [Claire Fourcade](https://fr.wikipedia.org/wiki/Claire_Fourcade) (catho ++, anti euthanasie).
 - Voir Alliance Vita, Fondation Jérôme Lejeune,…
-- soutien de Bayrou : (https://www-mediapart-fr.bnf.idm.oclc.org/journal/france/220125/francois-bayrou-donne-des-gages-aux-opposants-l-aide-mourir)
+- soutien de Bayrou : [Mediapart du 22/01/2025](https://www-mediapart-fr.bnf.idm.oclc.org/journal/france/220125/francois-bayrou-donne-des-gages-aux-opposants-l-aide-mourir)
