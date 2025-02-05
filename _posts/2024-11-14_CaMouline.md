@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ruminations
+title: "Ruminations"
 date: 2024-11-14 11:56
 ---
 
