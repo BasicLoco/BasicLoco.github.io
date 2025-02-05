@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="fr" /><updated>2025-02-04T18:59:17+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ceci n’est pas un site</title><subtitle>Ceci n&apos;est toujours pas une awesome description de ce site</subtitle><entry><title type="html">Un test</title><link href="http://localhost:4000/2024/11/22/test/" rel="alternate" type="text/html" title="Un test" /><published>2024-11-22T00:00:00+01:00</published><updated>2024-11-22T00:00:00+01:00</updated><id>http://localhost:4000/2024/11/22/test</id><content type="html" xml:base="http://localhost:4000/2024/11/22/test/"><![CDATA[<p>Blablabla</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Blablabla]]></summary></entry><entry><title type="html">On</title><link href="http://localhost:4000/2024/11/06/on/" rel="alternate" type="text/html" title="On" /><published>2024-11-06T00:00:00+01:00</published><updated>2024-11-06T00:00:00+01:00</updated><id>http://localhost:4000/2024/11/06/on</id><content type="html" xml:base="http://localhost:4000/2024/11/06/on/"><![CDATA[<blockquote>
+  <p><strong>On</strong> : pronom imbécile qui caractérise celui qui l’emploie <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
+</blockquote>
+
+<h1 id="lemploi-du-pronom-indéfini">L’emploi du pronom indéfini</h1>
+
+<p>Il était une fois quatre individus que l’on appelait</p>
+
+<p><strong>Tout le monde</strong>, <strong>Quelqu’un</strong>, <strong>Chacun</strong> et <strong>Personne</strong>.</p>
+
+<p>Il y avait un important travail à faire,</p>
+
+<p>Et on a demandé à <strong>Tout le monde</strong> de le faire.</p>
+
+<p><strong>Tout le monde</strong> était persuadé que <strong>Quelqu’un</strong> le ferait.</p>
+
+<p><strong>Chacun</strong> aurait pu l’avoir fait, mais en réalité <strong>Personne</strong> ne le fit.</p>
+
+<p><strong>Quelqu’un</strong> se fâcha car c’était le travail de <strong>Tout le monde</strong> !</p>
+
+<p><strong>Tout le monde</strong> pensa que <strong>Chacun</strong> pouvait le faire</p>
+
+<p>Et <strong>Personne</strong> ne doutait que <strong>Quelqu’un</strong> le ferait…</p>
+
+<p>En fin de compte, <strong>Tout le monde</strong> fit des reproches à <strong>Chacun</strong></p>
+
+<p>Parce que <strong>Personne</strong> n’avait fait ce que <strong>Quelqu’un</strong> aurait pu faire.</p>
+
+<p>Sans vouloir le reprocher à <strong>Tout le monde</strong>,</p>
+
+<p>Il serait bon que <strong>Chacun</strong></p>
+
+<p>Fasse ce qu’il doit sans nourrir l’espoir</p>
+
+<p>Que <strong>Quelqu’un</strong> le fera à sa place…</p>
+
+<p>Car l’expérience montre que</p>
+
+<p>Là où on attend <strong>Quelqu’un</strong>,</p>
+
+<p>Généralement on ne trouve <strong>Personne</strong></p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p><em>source</em> : bon sens ardennais <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[On : pronom imbécile qui caractérise celui qui l’emploie 1 source : bon sens ardennais &#8617;]]></summary></entry></feed>
