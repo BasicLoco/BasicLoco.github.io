@@ -20,9 +20,9 @@
 
 title: "Ceci n'est pas un blog"
 author: "toujoursunefourmi"
-# email: your-email@example.com
+email: vim4ant@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Toujours pas un site
+  et toujours pas un site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -32,6 +32,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 plugins:
   - jekyll-feed
+
+minima:
+  date_format: "%A %e %B %Y"
+  skin: dark
 
 collections:
   posts:
