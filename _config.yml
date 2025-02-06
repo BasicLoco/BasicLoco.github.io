@@ -29,13 +29,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username: jekyll
 
 # Build settings
-theme: minima
+remote_theme: pages-themes/midnight@v0.2.0
+
 plugins:
   - jekyll-feed
 
-minima:
-  date_format: "%A %e %B %Y"
-  skin: dark
+#   date_format: "%A %e %B %Y"
+#   skin: dark
 # collections:
 # posts:
 # output: true
