@@ -36,10 +36,9 @@ plugins:
 minima:
   date_format: "%A %e %B %Y"
   skin: dark
-
-collections:
-  posts:
-    output: true
+# collections:
+# posts:
+# output: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
