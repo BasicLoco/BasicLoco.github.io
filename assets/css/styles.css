@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color: #f4f4f4;
   margin: 0;
   padding: 0;
@@ -7,4 +7,14 @@ body {
 
 h1 {
   color: #333;
+}
+
+h2 {
+  color: #f4f4f4;
+}
+
+.post-index {
+  float: left;
+  width: 200px;
+  margin: 10px;
 }

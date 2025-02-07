@@ -38,7 +38,7 @@ plugins:
 
 minima:
   date_format: "%A %e %B %Y"
-  skin: dark
+  # skin: dark
 #
 # collections:
 # posts:
