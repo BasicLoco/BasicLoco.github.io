@@ -2,6 +2,7 @@
 layout: post
 title: "Questions de vocabulaire français"
 date: 2025-02-08
+draft: true
 ---
 
 > Une personne (A) exprime un ressenti (« j'ai froid »).
