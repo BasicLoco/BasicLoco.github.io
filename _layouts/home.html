@@ -11,14 +11,14 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
     <!-- Index des posts à gauche -->
-    <div class="post-index">
-      <h2>Index des posts</h2>
-      <ul>
-        {%- for post in site.posts -%}
-        <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
-        {%- endfor -%}
-      </ul>
-    </div>
+    <!-- <div class="post-index"> -->
+    <!--   <h2>Index des posts</h2> -->
+    <!--   <ul> -->
+    <!--     {%- for post in site.posts -%} -->
+    <!--     <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li> -->
+    <!--     {%- endfor -%} -->
+    <!--   </ul> -->
+    <!-- </div> -->
 
   <!-- Liste des posts détaillés -->
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
