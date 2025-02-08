@@ -62,6 +62,41 @@ Il est **fortement recommandé** de **contacter ton assurance en amont** avant d
 
 En résumé, contacte ton assureur **avant la signature de l’acte de vente** afin de t'assurer que le contrat d'assurance soit en place dès que tu deviens propriétaire. Cela te permettra de protéger rapidement ton bien contre tout sinistre dès le jour de l'achat.
 
+## Détails liés à l'ancienne location
+
+### Vérification de la fin du bail
+
+- Assure-toi que le bail a bien été **résilié** et que le locataire a quitté l'appartement officiellement.
+- Demande confirmation au vendeur que le locataire **n'est plus dans les lieux** et qu'il n'y a pas d'occupation illégale.
+
+### État des lieux de sortie
+
+- Vérifie qu'un **état des lieux de sortie** a bien été fait et qu’il n’y a pas de dégâts notables laissés par le locataire.
+- Si l'état des lieux n'a pas encore été fait, organise-le pour t’assurer que l'appartement est bien **en bon état** (pas de trous dans les murs, pas de dommages importants).
+
+### Assurance habitation
+
+- **Souscris une assurance habitation** pour le bien une fois que tu es propriétaire, couvrant les risques liés à la **responsabilité civile** et à **l'immeuble** (incendie, dégât des eaux, etc.).
+- Vérifie que l’**assurance propriétaire non occupant (PNO)** est toujours en place pendant la transaction pour couvrir les parties communes et les risques liés à l’immeuble.
+
+#### Détails sur l'assurance propriétaire non occupant (PNO)
+
+L’**assurance propriétaire non occupant (PNO)** est une assurance destinée aux propriétaires d’un bien immobilier qui est loué ou occupé par un tiers (locataire). Cette assurance couvre :
+
+- Les **dégâts matériels** liés à l’immeuble (par exemple, un incendie qui endommage l’immeuble).
+- Les **risques** causés par un locataire dans les parties communes de l'immeuble (dommages causés dans les parties privatives et communes).
+- Elle **ne couvre pas** les risques concernant le contenu de l'appartement (meubles, objets personnels), c’est à dire que ce n’est pas une assurance habitation classique pour les locataires.
+- Elle peut être **obligatoire** selon la loi (notamment pour les copropriétés), ou conseillée pour protéger le propriétaire en cas de sinistre.
+
+### Régularisation des charges et loyers
+
+- Demande au vendeur s’il n'y a pas de **charges impayées** ou de **loyers en retard** avant la résiliation du bail.
+- Vérifie que le locataire a bien payé toutes les charges et loyers dus jusqu’à la fin de son contrat.
+
+### Disponibilité de l'appartement
+
+- Assure-toi que l'appartement est **prêt à être occupé** ou **rénové** immédiatement après l’achat, sans besoin de délai supplémentaire lié à la fin du bail.
+
 ## Astuces pratiques
 
 - **Précautions sur l'humidité** : Vérifie la présence d'**humidité** ou de **moisissures** dans les coins et sous les fenêtres, surtout dans les pièces humides.
