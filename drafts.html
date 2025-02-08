@@ -1,0 +1,14 @@
+---
+layout: drafts
+---
+
+<script>
+  if (!localStorage.getItem("accessGranted")) {
+    var password = prompt("Entrez le mot de passe :");
+    if (password !== "pepperlemeilleur") {
+      window.location.href = "https://basicloco.github.io";
+    } else {
+      localStorage.setItem("accessGranted", "true"); // Stocke que l'accès est accordé
+    }
+  }
+</script>
