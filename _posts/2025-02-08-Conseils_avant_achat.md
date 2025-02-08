@@ -58,10 +58,6 @@ Il est **fortement recommandé** de **contacter ton assurance en amont** avant d
 
 - Si l’appartement était loué, tu peux demander au vendeur de te fournir des informations sur l’**assurance habitation** qu’il avait en place, afin de vérifier qu’elle était conforme et bien active. Cela permet aussi de vérifier si tu as des droits ou des recours en cas de problème avant ta prise de possession du bien.
 
-### Important : souscrire en amont
-
-En résumé, contacte ton assureur **avant la signature de l’acte de vente** afin de t'assurer que le contrat d'assurance soit en place dès que tu deviens propriétaire. Cela te permettra de protéger rapidement ton bien contre tout sinistre dès le jour de l'achat.
-
 ## Détails liés à l'ancienne location
 
 ### Vérification de la fin du bail
