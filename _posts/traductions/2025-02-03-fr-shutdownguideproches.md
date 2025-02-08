@@ -2,8 +2,8 @@
 layout: post
 title: "Tout sur les shutdowns autistiques : un guide pour les proches"
 date: 2025-02-03 10:10
-categories: blog
-draft: true
+categories: traductions
+draft: false
 ---
 
 <!-- # Tout sur les « shutdowns » autistiques : un guide pour les alliés -->

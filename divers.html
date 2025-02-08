@@ -1,0 +1,16 @@
+---
+layout: default
+title: "Divers"
+permalink: /divers/
+---
+
+<h2>Un peu de tout</h2>
+
+<ul>
+    {% assign category_name = "divers" %}
+    {% for post in site.posts %}
+        {% if post.categories contains category_name and post.draft != true %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+    {% endfor %}
+</ul>

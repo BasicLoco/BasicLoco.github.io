@@ -2,7 +2,7 @@
 layout: post
 title: "Conseils d'achat immobilier"
 date: 2025-02-08
-categories: blog
+categories: divers
 draft: false
 ---
 
