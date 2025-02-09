@@ -3,12 +3,12 @@ layout: post
 title: "Tout sur les meltdowns autistiques : un guide pour les proches"
 date: 2025-02-03 10:09
 categories: traductions
-draft: false
+draft: true
 ---
 
-> Ce qui suit est une traduction libre de l'article [Reframing Autism --- All About Autistic Meldowns: A Guide For Allies](https://reframingautism.org.au/all-about-autistic-meltdowns-a-guide-for-allies/)
+> Ce qui suit est une traduction libre, **en cours de réalisation**, de l'article « [Reframing Autism --- All About Autistic Meldowns: A Guide For Allies](https://reframingautism.org.au/all-about-autistic-meltdowns-a-guide-for-allies/) ».
 
-# Tout sur les crises autistiques (_meltdown_) : un guide pour les proches
+<!-- # Tout sur les crises autistiques (_meltdown_) : un guide pour les proches -->
 
 - [Informations](https://reframingautism.org.au/category/information/)
 - [corégulation](https://reframingautism.org.au/tag/co-regulation/), [meltdown](https://reframingautism.org.au/tag/meltdown/), [shutdown](https: //reframingautism.org.au/tag/shutdown/)
