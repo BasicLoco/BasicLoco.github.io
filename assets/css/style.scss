@@ -1,0 +1,25 @@
+---
+--- 
+
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+"minima/initialize";
+
+body {
+  background-color: #071401;
+}
+
+h1 {
+  color: green;
+}
+
+h2 {
+  color: yellow;
+}
+
+a {
+  color: red;
+}
+
+a:visited {
+  color: cyan;
+}
