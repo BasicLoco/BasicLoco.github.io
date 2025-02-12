@@ -31,7 +31,7 @@ github_username: BasicLoco
 # Build settings
 remote_theme: jekyll/minima
 sass:
-  style: compressed
+  style: expanded
 
 plugins:
   - jekyll-feed
