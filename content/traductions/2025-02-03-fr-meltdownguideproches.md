@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tout sur les meltdowns autistiques : un guide pour les proches"
-date: 2025-02-03 10:09
+date: 2025-02-03
 categories: traductions
 draft: true
 ---

@@ -1,3 +1,46 @@
 baseURL = "https://basicloco.github.io/"
 languageCode = "fr-FR"
 title = "Ceci n'est pas un site"
+theme = 'PaperMod'
+
+# paginate = 10
+defaultContentLanguage = "fr"
+enableRobotsTXT = true
+
+[params]
+  env = "development"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  themeColor = "auto"
+  defaultTheme = "dark"
+
+[params.profileMode]
+  enabled = true
+  title = "Bienvenue"
+  subtitle = "Ceci n'est pas une description"
+  # imageUrl = "avatar.png"
+  # imageTitle = "La fourmi"
+
+
+[menu]
+
+  [[menu.main]]
+    name = "Accueil"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Traductions"
+    url = "/traductions/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Divers"
+    url = "/divers/"
+    weight = 2
