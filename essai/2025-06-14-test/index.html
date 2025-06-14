@@ -5,11 +5,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>Blogs | Ceci n&#39;est pas un site</title>
+<title>Un nouveau test | Ceci n&#39;est pas un site</title>
 <meta name="keywords" content="">
-<meta name="description" content="Blogs - Ceci n&#39;est pas un site">
+<meta name="description" content="Encore un test.">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/blog/">
+<link rel="canonical" href="http://localhost:1313/essai/2025-06-14-test/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.8fe10233a706bc87f2e08b3cf97b8bd4c0a80f10675a143675d59212121037c0.css" integrity="sha256-j&#43;ECM6cGvIfy4Is8&#43;XuL1MCoDxBnWhQ2ddWSEhIQN8A=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
@@ -18,8 +18,7 @@
 <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/blog/index.xml">
-<link rel="alternate" hreflang="fr" href="http://localhost:1313/blog/">
+<link rel="alternate" hreflang="fr" href="http://localhost:1313/essai/2025-06-14-test/">
 <noscript>
     <style>
         #theme-toggle,
@@ -31,7 +30,7 @@
 </noscript>
 </head>
 
-<body class="list dark" id="top">
+<body class=" dark" id="top">
 <script>
     if (localStorage.getItem("pref-theme") === "light") {
         document.body.classList.remove('dark')
@@ -73,13 +72,13 @@
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/blog/" title="Blog">
-                    <span class="active">Blog</span>
+                <a href="http://localhost:1313/divers/" title="Divers">
+                    <span>Divers</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/divers/" title="Divers">
-                    <span>Divers</span>
+                <a href="http://localhost:1313/posts/" title="Posts">
+                    <span>Posts</span>
                 </a>
             </li>
             <li>
@@ -90,24 +89,28 @@
         </ul>
     </nav>
 </header>
-<main class="main"> 
-<header class="page-header">
-  <h1>
-    Blogs
-  </h1>
-</header>
+<main class="main">
 
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Un nouveau test
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Encore un test.
-</p>
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Un nouveau test
+    </h1>
+    <div class="post-meta"><span title='2025-06-14 00:00:00 +0000 UTC'>juin 14, 2025</span>&nbsp;·&nbsp;1 min
+
+</div>
+  </header> 
+  <div class="post-content"><p>Encore un test.</p>
+
+
   </div>
-  <footer class="entry-footer"><span title='2025-06-14 00:00:00 +0000 UTC'>juin 14, 2025</span>&nbsp;·&nbsp;1 min</footer>
-  <a class="entry-link" aria-label="post link to Un nouveau test" href="http://localhost:1313/blog/2025-06-14-test/"></a>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+
+  </footer>
 </article>
     </main>
     
@@ -179,6 +182,53 @@
         }
     })
 
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'Copier';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'Copié !';
+            setTimeout(() => {
+                copybutton.innerHTML = 'Copier';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
 </script>
 </body>
 
