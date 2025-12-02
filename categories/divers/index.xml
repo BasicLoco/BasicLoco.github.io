@@ -16,6 +16,13 @@
       <description>&lt;p&gt;Encore un test.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Un nouveau test</title>
+      <link>https://basicloco.github.io/posts/2025-12-02-encoretest/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://basicloco.github.io/posts/2025-12-02-encoretest/</guid>
+      <description>&lt;h1 id=&#34;titre&#34;&gt;titre&lt;a href=&#34;#titre&#34; class=&#34;post-heading__anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget pretium quam, ornare cursus lectus. Nunc in iaculis elit. Sed massa orci, dapibus et magna ac, tincidunt luctus ligula. Nullam in erat semper, euismod justo id, iaculis felis. Mauris porta et quam id rhoncus. Etiam tempus tempus orci, vel volutpat sem faucibus non. Donec ac laoreet justo.&lt;/p&gt;&#xA;&lt;h1 id=&#34;sous-titre&#34;&gt;sous-titre&lt;a href=&#34;#sous-titre&#34; class=&#34;post-heading__anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Nunc in nisi ex. Nulla volutpat sed nisi id malesuada. Vivamus porta mauris imperdiet est mollis scelerisque. Vestibulum varius pharetra metus nec varius. Praesent est risus, tempor sit amet magna sed, aliquam iaculis magna. Pellentesque at sollicitudin metus, non tincidunt mi. Cras eu congue sapien, et sagittis orci. Cras viverra ut lectus at placerat. Vivamus interdum ac risus at aliquet. Fusce ut bibendum metus. Duis cursus, felis sed semper pretium, lorem ligula viverra ex, eget facilisis augue metus sit amet lectus. In volutpat maximus nulla sit amet sollicitudin.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Patois ardennais</title>
       <link>https://basicloco.github.io/divers/2025-02-09-patois-ardennais/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
