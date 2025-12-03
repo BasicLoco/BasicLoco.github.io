@@ -5,11 +5,6 @@
     <loc>https://basicloco.github.io/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://basicloco.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr-FR"
                 href="https://basicloco.github.io/categories/"
                 />
@@ -22,11 +17,6 @@
     <loc>https://basicloco.github.io/de/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://basicloco.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr-FR"
                 href="https://basicloco.github.io/"
                 />
@@ -37,11 +27,6 @@
                 />
   </url><url>
     <loc>https://basicloco.github.io/de/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://basicloco.github.io/en/tags/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
