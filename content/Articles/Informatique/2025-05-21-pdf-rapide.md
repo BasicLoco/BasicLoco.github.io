@@ -8,6 +8,8 @@ draft: false
 
 ## Au commencement, était un clavier
 
+🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜🐜
+
 Petite, il a fallu vite savoir écrire. À la main.
 
 Dyspraxique, dysgraphique et, oh drame ultime, gauchère, dans un environnement pas super open à toute différence, ça n'a pas été une simple affaire.
