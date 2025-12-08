@@ -1,0 +1,10 @@
+# Fichiers temporaires Vim
+*~
+
+# Dossiers générés par Hugo
+/public/
+/resources/_gen/
+/node_modules/
+
+# Autres fichiers temporaires
+.DS_Store
