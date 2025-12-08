@@ -1,3 +1,26 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://BasicLoco.github.io/"
+title = "Ceci n'est pas un site"
+languageCode = 'fr-FR'
+defaultContentLanguage = "fr"
+theme = "PaperMod"
+
+enableGitInfo = true
+enableRobotsTXT = true
+
+# Génération automatique du menu pour les sections
+sectionPagesMenu = "main"
+
+# Paramètres spécifiques à PaperMod
+[params]
+  showReadingTime = true
+  showPostNavLinks = true
+  showBreadcrumbs = true
+  themeColor = "auto"
+  defaultTheme = "dark"
+  showShareButtons = false
+
+[params.profileMode]
+enabled = true
+title = "Bienvenue"
+subtitle = "Ceci n'est pas une description"
+  
