@@ -1,9 +1,9 @@
----
-layout: post
-title: "Tout sur les shutdowns autistiques : un guide pour les proches"
-date: 2025-02-03
-categories: traductions
----
++++
+title = "Tout sur les shutdowns autistiques : un guide pour les proches"
+date = 2025-02-03
+categories = ["traductions"]
+draft = true
++++
 
 > Cet article est une traduction libre, **en cours de réalisation**, de l'article « [Reframing autism --- Shutdown guide for allies](https://reframingautism.org.au/all-about-autistic-shutdown-guide-for-allies/) ».
 

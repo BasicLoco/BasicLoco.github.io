@@ -8,9 +8,9 @@ draft: false
 
 ## Au commencement, était un clavier
 
-Petite, il a fallu vite savoir écrire. À la main.
+<!-- Petite, il a vite fallu savoir écrire. À la main. -->
 
-Dyspraxique, dysgraphique et, oh drame ultime, gauchère, dans un environnement pas super open à toute différence, ça n'a pas été une simple affaire.
+<!-- Dyspraxique, dysgraphique et, oh drame ultime, gauchère, dans un environnement pas super open à toute différence, ça n'a pas été une simple affaire. -->
 
 Tout d'abord, il fallait comprendre l'intérêt de devoir tracer des caractères inégaux, difficiles à dessiner, et qui ne ressemblaient pas à ceux des livres et autres textes visibles d'un enfant (étiquettes de produits, pancartes, etc).
 

@@ -1,10 +1,9 @@
----
-layout: post
-title: "Tout sur les meltdowns autistiques : un guide pour les proches"
-date: 2025-02-03
-categories: traductions
-draft: false
----
++++
+title = "Tout sur les meltdowns autistiques : un guide pour les proches"
+date = 2025-02-03
+categories = ["traductions"]
+draft = true
++++
 
 > Ce qui suit est une traduction libre, **en cours de réalisation**, de l'article « [Reframing Autism — All About Autistic Meldowns: A Guide For Allies](https://reframingautism.org.au/all-about-autistic-meltdowns-a-guide-for-allies/) ».
 
