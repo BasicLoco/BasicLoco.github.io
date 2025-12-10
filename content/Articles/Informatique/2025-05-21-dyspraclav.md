@@ -3,7 +3,7 @@ title: "Comment 60 touches (et un peu de gym des méninges) ont sauvé mon bras 
 date: 2025-05-21T12:00:00+0100
 categories: ["tutoriels"]
 tags: ["neovim", "markdown", "astuces", "pandoc", "pdf", "dysgraphie"]
-draft: false
+draft: true
 ---
 
 ## Au commencement, était un clavier
