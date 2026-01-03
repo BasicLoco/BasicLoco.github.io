@@ -1,0 +1,35 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+<ul class="toc-level toc-level-1">
+  {{ range site.Sections }}
+  <!-- evite toc dans toc -->
+    {{ if ne .Section "toc" }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+
+      {{ if .Sections }}
+        <ul class="toc-level toc-level-2">
+          {{ range .Sections }}
+            <li>
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+
+              {{ if .Pages }}
+                <ul class="toc-level toc-level-3">
+                  {{ range .Pages }}
+                    <li>
+                      <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                  {{ end }}
+                </ul>
+              {{ end }}
+
+            </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+
+    </li>
+    {{ end }}
+  {{ end }}
+</ul>
+{{ end }}
